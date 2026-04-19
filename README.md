@@ -20,13 +20,11 @@ If input voltage < reference voltage → Output goes LOW
 Multiple comparators can be used to detect different voltage levels and drive corresponding LEDs.
 
 🖼️ Circuit Diagram
-(Add your circuit image here)
+ Uploaded as png file
+ 
 📊 Output
 LED indication changes based on input voltage levels
-Each LED represents a specific voltage range
-📄 Documentation
-Project Report: (docs/report.pdf)
-Presentation: (docs/presentation.pptx)
+
 🧠 Applications
 Battery level indicators
 Voltage monitoring systems
